@@ -1,0 +1,7 @@
+50  - João
+90  - Pedro
+10  - Danillo
+50  - Kimberly
+60  - Zoe
+70  - Winicius
+690  - kimberly
